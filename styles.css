@@ -1,0 +1,23 @@
+h1 {
+    color: #f48db4;
+    font-family:'papyrus', 'Copperplate', 'fantasy';
+}
+
+body, html{
+background-color: #fcf4d9;
+}
+
+div {
+margin:0;
+background-color: #fcf4d9;
+
+}
+
+.center {
+ margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
